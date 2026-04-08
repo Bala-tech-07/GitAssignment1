@@ -1,4 +1,9 @@
+<<<<<<< HEAD
 Hi this is going to be really fun thing
 This is the Assignment File modified in new-feature
 This file needs to be ignored
+=======
+Changes Happened in Repository
+This is the Assignment File modified in new-feature
+>>>>>>> main
 
